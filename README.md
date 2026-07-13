@@ -14,12 +14,6 @@ I'm a Software Engineer with experience building production-grade backend applic
 - REST APIs
 - Git & GitHub
 
-### 🌱 Currently Exploring
-- System Design
-- Distributed Systems
-- Cloud Architecture
-- AI-powered Applications
-
 ### 🚀 Featured Projects
 - 📚 **Edrizz** – Online Examination Platform (Web, Android & iOS)
 - 🤖 AI Investment Platform
